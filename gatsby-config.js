@@ -26,7 +26,7 @@ module.exports = {
         description: `Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI.`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#3182ce`,
+        theme_color: `#94105d`,
         display: `standalone`,
         icons: [
           {
